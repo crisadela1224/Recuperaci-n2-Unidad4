@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StaffWS1</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="address_id">Address Id</string>
+    <string name="email">Email</string>
+    <string name="store_id">Store Id</string>
+    <string name="active">Active</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="last_update">Last Update</string>
+    <string name="picture">Picture</string>
+    <string name="save">Save</string>
+    <string name="list">List</string>
+    <string name="regresar">Regresar</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="action_settings">Action Settings</string>
+
+</resources>
